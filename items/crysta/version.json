@@ -1,1 +1,5 @@
-{ "version": 1, "updatedAt": "2025-12-31" }
+{
+  "version": 1,
+  "updatedAt": "2025-12-31",
+  "note": "initial crysta dataset"
+}
