@@ -1,0 +1,6282 @@
+[
+  {
+    "title": "Cake Potum [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "147 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "30"
+      },
+      {
+        "name": "Physical Resistance %",
+        "amount": "-15"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-15"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Platinum Potum"
+      }
+    ],
+    "obtained_from": [],
+    "id": 1,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Colon Boss [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MATK %",
+        "amount": "10"
+      },
+      {
+        "name": "Accuracy",
+        "amount": "-40"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "20"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Boss Goblin"
+      }
+    ],
+    "obtained_from": [],
+    "id": 2,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Vevela [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Ailment Resistance %",
+        "amount": "-15"
+      },
+      {
+        "name": "Guard Power %",
+        "amount": "5"
+      },
+      {
+        "name": "Guard Recharge %",
+        "amount": "5"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "5"
+      },
+      {
+        "name": "Motion Speed %",
+        "amount": "3"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Caspy"
+      }
+    ],
+    "obtained_from": [],
+    "id": 3,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Wild Beast Lixi [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "25 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "15"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "-100"
+      },
+      {
+        "name": "ATK %",
+        "amount": "10"
+      },
+      {
+        "name": "ASPD %",
+        "amount": "20"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Rhinosaur"
+      }
+    ],
+    "obtained_from": [],
+    "id": 4,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Piscruva [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "11"
+      },
+      {
+        "name": "MATK %",
+        "amount": "11"
+      },
+      {
+        "name": "ASPD",
+        "amount": "-300"
+      },
+      {
+        "name": "CSPD",
+        "amount": "-300"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Guard Golem"
+      }
+    ],
+    "obtained_from": [],
+    "id": 5,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "DEX+8 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEX",
+        "amount": "8"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Flying Tentacle (Lv 254)",
+        "dye": "",
+        "map": "Latum Wetlands"
+      }
+    ],
+    "id": 6,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 7,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Remnant of Beyond [Normal Crysta]",
+    "props": {
+      "Sell": "100 Spina",
+      "Process": "Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Physical Pierce %",
+        "amount": "5"
+      },
+      {
+        "name": "ASPD",
+        "amount": "-250"
+      },
+      {
+        "name": "Short Range Damage %",
+        "amount": "10"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Bemoz (Lv 300)",
+        "dye": "",
+        "map": "Deusania's Lab Innermost Chambers"
+      }
+    ],
+    "id": 8,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "HP+800 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "800"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Brekz (Lv 241)",
+        "dye": "",
+        "map": "Pipeline Corridor"
+      },
+      {
+        "monster": "Brekz (Lv 239)",
+        "dye": "",
+        "map": "Pipeline Corridor"
+      }
+    ],
+    "id": 9,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Wiltileaf [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "0 Spina",
+      "Process": "Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "9"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-15"
+      },
+      {
+        "name": "Critical Damage",
+        "amount": "12"
+      },
+      {
+        "name": "Motion Speed %",
+        "amount": "0"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Ageladanios"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Wiltileaf (Lv 305)",
+        "dye": "",
+        "map": "Eumano Village Ruins: Area 2"
+      }
+    ],
+    "id": 10,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "VIT+8 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [
+      {
+        "monster": "Delphi (Lv 246)",
+        "dye": "",
+        "map": "Menabra Plains"
+      },
+      {
+        "monster": "Delphi (Lv 244)",
+        "dye": "",
+        "map": "Menabra Plains"
+      }
+    ],
+    "id": 11,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "CSPD+160 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "CSPD",
+        "amount": "160"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Corroded Starfish (Lv 234)",
+        "dye": "",
+        "map": "Path to the Deep Sea"
+      }
+    ],
+    "id": 12,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "MP+400 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "400"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Pterois (Lv 242)",
+        "dye": "",
+        "map": "Carretera Mar"
+      }
+    ],
+    "id": 13,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Limacina [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "0 Spina",
+      "Process": "Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Physical Resistance %",
+        "amount": "5"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "5"
+      },
+      {
+        "name": "Ailment Resistance %",
+        "amount": "5"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Seraph Machina"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Limacina (Lv 290)",
+        "dye": "",
+        "map": "Deep Sea: Zone 2"
+      }
+    ],
+    "id": 14,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Torexesa [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "0 Spina",
+      "Process": "Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "-200"
+      },
+      {
+        "name": "ATK %",
+        "amount": "10"
+      },
+      {
+        "name": "MATK %",
+        "amount": "10"
+      },
+      {
+        "name": "Attack MP Recovery",
+        "amount": "4"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Black Shadow"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Torexesa (Lv 259)",
+        "dye": "",
+        "map": "Aquacity: Parliament Hall"
+      },
+      {
+        "monster": "Torexesa (Lv 279)",
+        "dye": "",
+        "map": "Aquacity: Parliament Hall"
+      },
+      {
+        "monster": "Torexesa (Lv 289)",
+        "dye": "",
+        "map": "Aquacity: Parliament Hall"
+      },
+      {
+        "monster": "Torexesa (Lv 309)",
+        "dye": "",
+        "map": "Aquacity: Parliament Hall"
+      }
+    ],
+    "id": 15,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Red Ash Dragon Rudis [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "-300"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "200"
+      },
+      {
+        "name": "Accuracy %",
+        "amount": "5"
+      },
+      {
+        "name": "Critical Rate",
+        "amount": "-7"
+      },
+      {
+        "name": "Short Range Damage %",
+        "amount": "9"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Gravicep"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Red Ash Dragon Rudis (Lv 259)",
+        "dye": "",
+        "map": "Espuma Dome: Entrance"
+      },
+      {
+        "monster": "Red Ash Dragon Rudis (Lv 269)",
+        "dye": "",
+        "map": "Espuma Dome: Entrance"
+      },
+      {
+        "monster": "Red Ash Dragon Rudis (Lv 279)",
+        "dye": "",
+        "map": "Espuma Dome: Entrance"
+      },
+      {
+        "monster": "Red Ash Dragon Rudis (Lv 299)",
+        "dye": "",
+        "map": "Espuma Dome: Entrance"
+      }
+    ],
+    "id": 16,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Accuracy+16 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy",
+        "amount": "16"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Alipipi (Lv 228)",
+        "dye": "",
+        "map": "Subma Cave"
+      },
+      {
+        "monster": "Alipipi (Lv 230)",
+        "dye": "",
+        "map": "Subma Cave"
+      }
+    ],
+    "id": 17,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Kuffania [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Stability %",
+        "amount": "4"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "4"
+      },
+      {
+        "name": "Short Range Damage %",
+        "amount": "4"
+      },
+      {
+        "name": "Long Range Damage %",
+        "amount": "-12"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Mithurna Lynx"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Kuffania (Lv 250)",
+        "dye": "",
+        "map": "Risus Valley: Area 2"
+      }
+    ],
+    "id": 18,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 19,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Lilicarolla [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "-100"
+      },
+      {
+        "name": "Dodge %",
+        "amount": "-5"
+      },
+      {
+        "name": "Unsheathe Attack %",
+        "amount": "11"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Tappler"
+      },
+      {
+        "name": "Katana only: Unsheathe Attack %",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Lilicarolla (Lv 278)",
+        "dye": "",
+        "map": "Frozen Falls: Area 1"
+      }
+    ],
+    "id": 20,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dodge+16 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "16"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Wolfelar (Lv 224)",
+        "dye": "",
+        "map": "Algid Passage"
+      }
+    ],
+    "id": 21,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Charugon [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "6"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-12"
+      },
+      {
+        "name": "Short Range Damage %",
+        "amount": "3"
+      },
+      {
+        "name": "Long Range Damage %",
+        "amount": "6"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Flare Volg"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Charugon (Lv 275)",
+        "dye": "",
+        "map": "Boma Konda: Underground Area"
+      }
+    ],
+    "id": 22,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "ASPD+160 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "160"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Konetz (Lv 226)",
+        "dye": "",
+        "map": "Jabali Kubwa: Area 1"
+      },
+      {
+        "monster": "Konetz (Lv 227)",
+        "dye": "",
+        "map": "Jabali Kubwa: Area 2"
+      },
+      {
+        "monster": "Konetz (Lv 228)",
+        "dye": "",
+        "map": "Jabali Kubwa: Area 3"
+      }
+    ],
+    "id": 23,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Orictoceras [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Critical Damage",
+        "amount": "9"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Fanadon"
+      },
+      {
+        "name": "Reduce Dmg (Player Epicenter) %",
+        "amount": "-3"
+      },
+      {
+        "name": "Reduce Dmg (Foe Epicenter) %",
+        "amount": "-3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Orictoceras (Lv 272)",
+        "dye": "",
+        "map": "Kabla Jabali"
+      }
+    ],
+    "id": 24,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "ASPD+140 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "140"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Caverant (Lv 215)",
+        "dye": "",
+        "map": "Tunnel of Trials"
+      }
+    ],
+    "id": 25,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Illuminitor [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "-25"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "25"
+      },
+      {
+        "name": "Additional Melee %",
+        "amount": "25"
+      },
+      {
+        "name": "Additional Magic %",
+        "amount": "25"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Illuminitor (Lv 250)",
+        "dye": "",
+        "map": "Illuminare City: Route 1 (210-230)"
+      }
+    ],
+    "id": 26,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "DEX+7 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEX",
+        "amount": "7"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Octaray (Lv 210)",
+        "dye": "",
+        "map": "Stairway to Vital Point"
+      }
+    ],
+    "id": 27,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Brassozard [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR %",
+        "amount": "3"
+      },
+      {
+        "name": "ATK %",
+        "amount": "3"
+      },
+      {
+        "name": "Accuracy %",
+        "amount": "-10"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "-10"
+      },
+      {
+        "name": "Critical Damage",
+        "amount": "3"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Volotur"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Brassozard (Lv 263)",
+        "dye": "",
+        "map": "Operation Zone: Climate Control Area"
+      }
+    ],
+    "id": 28,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "INT+7 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "INT",
+        "amount": "7"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Wymax (Lv 207)",
+        "dye": "",
+        "map": "Freight Corridor"
+      },
+      {
+        "monster": "Wymax (Lv 211)",
+        "dye": "",
+        "map": "Freight Corridor"
+      }
+    ],
+    "id": 29,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Melancia [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Stability %",
+        "amount": "5"
+      },
+      {
+        "name": "Accuracy %",
+        "amount": "5"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "5"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Radibat"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Melancia (Lv 225)",
+        "dye": "",
+        "map": "Phasma Forest: Area 2"
+      }
+    ],
+    "id": 30,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 31,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "STR+7 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "7"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Megadon (Lv 214)",
+        "dye": "",
+        "map": "Boma Moja: Area 2"
+      },
+      {
+        "monster": "Megadon (Lv 215)",
+        "dye": "",
+        "map": "Boma Moja: Area 3"
+      }
+    ],
+    "id": 32,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "CSPD+140 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "CSPD",
+        "amount": "140"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Mist Roar (Lv 206)",
+        "dye": "",
+        "map": "Nebula Plain"
+      }
+    ],
+    "id": 33,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Gigantic Octopus [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "150"
+      },
+      {
+        "name": "CSPD",
+        "amount": "200"
+      },
+      {
+        "name": "Critical Rate",
+        "amount": "10"
+      },
+      {
+        "name": "Fire resistance %",
+        "amount": "-4"
+      },
+      {
+        "name": "Ailment Resistance %",
+        "amount": "-2"
+      },
+      {
+        "name": "Attack MP Recovery",
+        "amount": "5"
+      },
+      {
+        "name": "Reduce Dmg (Bowling) %",
+        "amount": "-1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Gigantic Octopus (Lv 140)",
+        "dye": "",
+        "map": "Saltau's Beach: Beach House"
+      },
+      {
+        "monster": "Gigantic Octopus (Lv 150)",
+        "dye": "",
+        "map": "Saltau's Beach: Beach House"
+      },
+      {
+        "monster": "Gigantic Octopus (Lv 160)",
+        "dye": "",
+        "map": "Saltau's Beach: Beach House"
+      },
+      {
+        "monster": "Gigantic Octopus (Lv 170)",
+        "dye": "",
+        "map": "Saltau's Beach: Beach House"
+      },
+      {
+        "monster": "Gigantic Octopus (Lv 190)",
+        "dye": "",
+        "map": "Saltau's Beach: Beach House"
+      }
+    ],
+    "id": 34,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Guard Golem [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "9"
+      },
+      {
+        "name": "MATK %",
+        "amount": "9"
+      },
+      {
+        "name": "ASPD",
+        "amount": "-225"
+      },
+      {
+        "name": "CSPD",
+        "amount": "-225"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Guignol"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Guard Golem (Lv 222)",
+        "dye": "",
+        "map": "Weredragon's Throat"
+      },
+      {
+        "monster": "Guard Golem (Lv 232)",
+        "dye": "",
+        "map": "Weredragon's Throat"
+      },
+      {
+        "monster": "Guard Golem (Lv 242)",
+        "dye": "",
+        "map": "Weredragon's Throat"
+      },
+      {
+        "monster": "Guard Golem (Lv 252)",
+        "dye": "",
+        "map": "Weredragon's Throat"
+      },
+      {
+        "monster": "Guard Golem (Lv 272)",
+        "dye": "",
+        "map": "Weredragon's Throat"
+      },
+      {
+        "monster": "Guard Golem (Megiston 2022) (Lv 250)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 35,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Rampion [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Stability %",
+        "amount": "2"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "10"
+      },
+      {
+        "name": "Short Range Damage %",
+        "amount": "-1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Rampion (Lv 254)",
+        "dye": "",
+        "map": "Milcaska Falls: Army Base"
+      }
+    ],
+    "id": 36,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "MP+350 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "350"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Cormorant (Lv 202)",
+        "dye": "",
+        "map": "Vulcani Underground Passage"
+      }
+    ],
+    "id": 37,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "AGI+7 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "7"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Denden (Lv 193)",
+        "dye": "",
+        "map": "Vulcani Foothills"
+      },
+      {
+        "monster": "Denden (Lv 196)",
+        "dye": "",
+        "map": "Vulcani Foothills"
+      }
+    ],
+    "id": 38,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Blazingur [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "600"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "300"
+      },
+      {
+        "name": "Aggro %",
+        "amount": "2"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Aranea"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Blazingur (Lv 245)",
+        "dye": "",
+        "map": "Divido Valley: Area 3"
+      }
+    ],
+    "id": 39,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Accuracy+14 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy",
+        "amount": "14"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Booboo (Lv 189)",
+        "dye": "",
+        "map": "Flumen Plains"
+      },
+      {
+        "monster": "Booboo (Lv 192)",
+        "dye": "",
+        "map": "Flumen Plains"
+      }
+    ],
+    "id": 40,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dodge+14 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "14"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Ostrich (Lv 188)",
+        "dye": "",
+        "map": "Eumano Glade"
+      },
+      {
+        "monster": "Ostrich (Lv 190)",
+        "dye": "",
+        "map": "Eumano Glade"
+      }
+    ],
+    "id": 41,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dutannen [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy %",
+        "amount": "30"
+      },
+      {
+        "name": "Aggro %",
+        "amount": "10"
+      },
+      {
+        "name": "Anticipate %",
+        "amount": "6"
+      },
+      {
+        "name": "Guard Break %",
+        "amount": "6"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Shawle"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Dutannen (Weak) (Lv 179)",
+        "dye": "",
+        "map": "Noeliel Castle: B4F"
+      },
+      {
+        "monster": "Dutannen (Medium) (Lv 199)",
+        "dye": "",
+        "map": "Noeliel Castle: B4F"
+      },
+      {
+        "monster": "Dutannen (Strong) (Lv 219)",
+        "dye": "",
+        "map": "Noeliel Castle: B4F"
+      }
+    ],
+    "id": 42,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 43,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Bullamius [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "Unknown",
+      "Process": "unknown"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "250"
+      },
+      {
+        "name": "ATK %",
+        "amount": "3"
+      },
+      {
+        "name": "MATK %",
+        "amount": "3"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Salamander"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Bullamius (Lv 239)",
+        "dye": "",
+        "map": "Storage Yard: Area 2"
+      }
+    ],
+    "id": 44,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "VIT+7 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "VIT",
+        "amount": "7"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Arhinotops (Lv 181)",
+        "dye": "",
+        "map": "Movere Specula"
+      },
+      {
+        "monster": "Arhinotops (Lv 184)",
+        "dye": "",
+        "map": "Movere Specula"
+      }
+    ],
+    "id": 45,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "HP+700 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "700"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Horsenex (Lv 170)",
+        "dye": "",
+        "map": "Underwater Canyon: Area 1"
+      },
+      {
+        "monster": "Horsenex (Lv 171)",
+        "dye": "",
+        "map": "Underwater Canyon: Area 2"
+      },
+      {
+        "monster": "Horsenex (Lv 172)",
+        "dye": "",
+        "map": "Underwater Canyon: Area 3"
+      }
+    ],
+    "id": 46,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Rhinosaur [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "10"
+      },
+      {
+        "name": "ATK %",
+        "amount": "5"
+      },
+      {
+        "name": "ASPD %",
+        "amount": "15"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Minotaur"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Rhinosaur (Lv 233)",
+        "dye": "",
+        "map": "Fugitive Lake Swamp: Area 3"
+      }
+    ],
+    "id": 47,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Panchos Kita Makura [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy",
+        "amount": "3"
+      },
+      {
+        "name": "Critical Rate",
+        "amount": "5"
+      },
+      {
+        "name": "EXP Gain %",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "†Dark Lord† (Lv 220)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 48,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Black Shadow [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "-150"
+      },
+      {
+        "name": "ATK %",
+        "amount": "8"
+      },
+      {
+        "name": "MATK %",
+        "amount": "8"
+      },
+      {
+        "name": "Attack MP Recovery",
+        "amount": "3"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Tuscog"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Black Shadow (Lv 199)",
+        "dye": "",
+        "map": "Rokoko City Ruins"
+      },
+      {
+        "monster": "Black Shadow (Lv 209)",
+        "dye": "",
+        "map": "Rokoko City Ruins"
+      },
+      {
+        "monster": "Black Shadow (Lv 219)",
+        "dye": "",
+        "map": "Rokoko City Ruins"
+      },
+      {
+        "monster": "Black Shadow (Lv 239)",
+        "dye": "",
+        "map": "Rokoko City Ruins"
+      },
+      {
+        "monster": "Black Shadow (Megiston 2021) (Lv 210)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 49,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "CSPD+120 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "CSPD",
+        "amount": "120"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Boon (Lv 175)",
+        "dye": "",
+        "map": "Rokoko City Ruins"
+      },
+      {
+        "monster": "Boon (Lv 172)",
+        "dye": "",
+        "map": "Rokoko City Ruins"
+      }
+    ],
+    "id": 50,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "INT +6 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "1 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "INT",
+        "amount": "6"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Arbonymon (Lv 170)",
+        "dye": "",
+        "map": "Celarra Plateau"
+      }
+    ],
+    "id": 51,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Ageladanios [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "6"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-15"
+      },
+      {
+        "name": "Critical Damage",
+        "amount": "8"
+      },
+      {
+        "name": "Motion Speed %",
+        "amount": "-1"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Lyark Master Specialist"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Ageladanios (Lv 218)",
+        "dye": "",
+        "map": "Ducia Coast: Area 1"
+      }
+    ],
+    "id": 52,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "MP+300 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "300"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Pojo (Lv 165)",
+        "dye": "",
+        "map": "Inje Village"
+      },
+      {
+        "monster": "Pojo (Lv 168)",
+        "dye": "",
+        "map": "Inje Village"
+      }
+    ],
+    "id": 53,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "STR+6 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "6"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Flooray (Lv 162)",
+        "dye": "",
+        "map": "Lunagent Cliff Base"
+      },
+      {
+        "monster": "Flooray (Lv 165)",
+        "dye": "",
+        "map": "Lunagent Cliff Base"
+      }
+    ],
+    "id": 54,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 55,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Tappler [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "-50"
+      },
+      {
+        "name": "Dodge %",
+        "amount": "-5"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "-3"
+      },
+      {
+        "name": "Unsheathe Attack %",
+        "amount": "12"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Odelon Machina"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Tappler (Lv 218)",
+        "dye": "",
+        "map": "Ruins of Urban Elban"
+      }
+    ],
+    "id": 56,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "AGI+6 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "6"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Minimyu (Lv 164)",
+        "dye": "",
+        "map": "Inanis Wilderness"
+      }
+    ],
+    "id": 57,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "HP+600 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "600"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Florroractus (Lv 171)",
+        "dye": "",
+        "map": "Morga Wasteland: Area 1"
+      },
+      {
+        "monster": "Florroractus (Lv 172)",
+        "dye": "",
+        "map": "Morga Wasteland: Area 2"
+      },
+      {
+        "monster": "Florroractus (Lv 173)",
+        "dye": "",
+        "map": "Morga Wasteland: Area 3"
+      }
+    ],
+    "id": 58,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Gravicep [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "-100"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "200"
+      },
+      {
+        "name": "Accuracy %",
+        "amount": "3"
+      },
+      {
+        "name": "Critical Rate",
+        "amount": "-5"
+      },
+      {
+        "name": "Short Range Damage %",
+        "amount": "7"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Gravicep (Lv 184)",
+        "dye": "",
+        "map": "Recetacula Sector: Depot Rooftop"
+      },
+      {
+        "monster": "Gravicep (Lv 194)",
+        "dye": "",
+        "map": "Recetacula Sector: Depot Rooftop"
+      },
+      {
+        "monster": "Gravicep (Lv 204)",
+        "dye": "",
+        "map": "Recetacula Sector: Depot Rooftop"
+      },
+      {
+        "monster": "Gravicep (Lv 224)",
+        "dye": "",
+        "map": "Recetacula Sector: Depot Rooftop"
+      }
+    ],
+    "id": 59,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "VIT+6 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "VIT",
+        "amount": "6"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Orustica (Lv 157)",
+        "dye": "",
+        "map": "Pupalov Sector"
+      },
+      {
+        "monster": "Orustica (Lv 159)",
+        "dye": "",
+        "map": "Pupalov Sector"
+      }
+    ],
+    "id": 60,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dodge+12 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "12"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Baloot (Lv 157)",
+        "dye": "",
+        "map": "Dikkit Sector"
+      }
+    ],
+    "id": 61,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "ASPD+120 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "120"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Mossy Mousey (Lv 151)",
+        "dye": "",
+        "map": "Altoale Sector"
+      },
+      {
+        "monster": "Mossy Mousey (Lv 154)",
+        "dye": "",
+        "map": "Altoale Sector"
+      }
+    ],
+    "id": 62,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Shawle [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy %",
+        "amount": "20"
+      },
+      {
+        "name": "Aggro %",
+        "amount": "10"
+      },
+      {
+        "name": "Anticipate %",
+        "amount": "5"
+      },
+      {
+        "name": "Guard Break %",
+        "amount": "5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Shawle (Lv 130)",
+        "dye": "",
+        "map": "Joulu House: Hall (Lv 110)"
+      },
+      {
+        "monster": "Shawle (Lv 150)",
+        "dye": "",
+        "map": "Joulu House: Hall (Lv130)"
+      },
+      {
+        "monster": "Shawle (Lv 170)",
+        "dye": "",
+        "map": "Joulu House: Hall (Lv 150)"
+      }
+    ],
+    "id": 63,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Nuthoreth [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "2"
+      },
+      {
+        "name": "MATK %",
+        "amount": "2"
+      },
+      {
+        "name": "ASPD",
+        "amount": "150"
+      },
+      {
+        "name": "CSPD",
+        "amount": "150"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Nurethoth"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Nuthoreth (Lv 190)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Nuthoreth (Lv 200)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Nuthoreth (Lv 210)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Nuthoreth (Lv 230)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 64,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Radibat [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Stability %",
+        "amount": "4"
+      },
+      {
+        "name": "Accuracy %",
+        "amount": "4"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Radibat (Lv 200)",
+        "dye": "",
+        "map": "Zarth's Mansion: Study"
+      }
+    ],
+    "id": 65,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Gerumi [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "200"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "100"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Gerumi (Lv 180)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Gerumi (Lv 140)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Gerumi (Lv 100)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Gerumi (Lv 60)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Gerumi (Lv 20)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 66,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 67,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dex+6 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEX",
+        "amount": "6"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Moss Mole (Lv 146)",
+        "dye": "",
+        "map": "Forest of Ein"
+      }
+    ],
+    "id": 68,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Tuscog [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "-100"
+      },
+      {
+        "name": "ATK %",
+        "amount": "6"
+      },
+      {
+        "name": "MATK %",
+        "amount": "6"
+      },
+      {
+        "name": "Attack MP Recovery",
+        "amount": "2"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "York"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Tuscog (Lv 169)",
+        "dye": "",
+        "map": "Eryldan Street: Near the Forest of Ein"
+      },
+      {
+        "monster": "Tuscog (Lv 179)",
+        "dye": "",
+        "map": "Eryldan Street: Near the Forest of Ein"
+      },
+      {
+        "monster": "Tuscog (Lv 189)",
+        "dye": "",
+        "map": "Eryldan Street: Near the Forest of Ein"
+      },
+      {
+        "monster": "Tuscog (Lv 209)",
+        "dye": "",
+        "map": "Eryldan Street: Near the Forest of Ein"
+      },
+      {
+        "monster": "Tuscog (Megiston 2021) (Lv 200)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 69,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Accuracy+12 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy",
+        "amount": "12"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Tulin (Lv 141)",
+        "dye": "",
+        "map": "Wazeero Street"
+      },
+      {
+        "monster": "Tulin (Lv 144)",
+        "dye": "",
+        "map": "Wazeero Street"
+      }
+    ],
+    "id": 70,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Critical Rate +5 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Critical Rate",
+        "amount": "5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Baby Finstern (Lv 153)",
+        "dye": "",
+        "map": "Dark Dragon Shrine: Middle"
+      },
+      {
+        "monster": "Baby Finstern (Lv 154)",
+        "dye": "",
+        "map": "Dark Dragon Shrine: Upper"
+      },
+      {
+        "monster": "Thief Rat (Lv 122)",
+        "dye": "",
+        "map": "Phantom Wisp's Hideout"
+      }
+    ],
+    "id": 71,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "STR+5 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Billy (Lv 136)",
+        "dye": "",
+        "map": "Garden of Ice & Snow"
+      },
+      {
+        "monster": "Billy (Lv 139)",
+        "dye": "",
+        "map": "Garden of Ice & Snow"
+      }
+    ],
+    "id": 72,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Carbuncle [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "1000"
+      },
+      {
+        "name": "Dodge %",
+        "amount": "-10"
+      },
+      {
+        "name": "Reflect %",
+        "amount": "10"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Carbuncle (Lv 183)",
+        "dye": "",
+        "map": "Hall of Construction Gods"
+      }
+    ],
+    "id": 73,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "VIT+5 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "VIT",
+        "amount": "5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Berylfree (Lv 133)",
+        "dye": "",
+        "map": "Barbaros Corridor"
+      }
+    ],
+    "id": 74,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Mithurna Lynx [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Stability %",
+        "amount": "3"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "3"
+      },
+      {
+        "name": "Short Range Damage %",
+        "amount": "3"
+      },
+      {
+        "name": "Long Range Damage %",
+        "amount": "-9"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Mithurna Lynx (Lv 177)",
+        "dye": "",
+        "map": "Ruins of Mt. Mithurna: Stylobate"
+      }
+    ],
+    "id": 75,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "HP+500 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "500"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Tenoblepas (Lv 125)",
+        "dye": "",
+        "map": "Mt. Mithurna: Entrance"
+      },
+      {
+        "monster": "Tenoblepas (Lv 126)",
+        "dye": "",
+        "map": "Rokoko Plains"
+      },
+      {
+        "monster": "Tenoblepas (Lv 130)",
+        "dye": "",
+        "map": "Rokoko Plains"
+      },
+      {
+        "monster": "Carotabat (Lv 159)",
+        "dye": "",
+        "map": "Zarth's Mansion: Study"
+      }
+    ],
+    "id": 76,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Yashiro Azuki [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "200"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "100"
+      },
+      {
+        "name": "EXP Gain %",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Yashiro Azuki (Lv30) (Lv 20)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv150) (Lv 170)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv150) (Lv 160)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv150) (Lv 150)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv150) (Lv 140)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv60) (Lv 130)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv60) (Lv 110)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv60) (Lv 100)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv60) (Lv 90)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv60) (Lv 80)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv30) (Lv 70)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv30) (Lv 50)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv30) (Lv 40)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv30) (Lv 30)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Yashiro Azuki (Lv150) (Lv 190)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 77,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Fanadon [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Critical Damage",
+        "amount": "3"
+      },
+      {
+        "name": "Reduce Dmg (Player Epicenter) %",
+        "amount": "-3"
+      },
+      {
+        "name": "Reduce Dmg (Foe Epicenter) %",
+        "amount": "-3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Fanadon (Lv 171)",
+        "dye": "",
+        "map": "Curonne Forest: North Area 2"
+      }
+    ],
+    "id": 78,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 79,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "INT+5 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "INT",
+        "amount": "5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Fanalizard (Lv 120)",
+        "dye": "",
+        "map": "Curonne Forest: East"
+      },
+      {
+        "monster": "Fanalizard (Lv 123)",
+        "dye": "",
+        "map": "Curonne Forest: East"
+      }
+    ],
+    "id": 80,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "DEX+5 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEX",
+        "amount": "5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Lanbat (Lv 121)",
+        "dye": "",
+        "map": "Tolbas GrassLand"
+      }
+    ],
+    "id": 81,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Seraph Machina [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Physical Resistance %",
+        "amount": "3"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "3"
+      },
+      {
+        "name": "Ailment Resistance %",
+        "amount": "3"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Big Coryn"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Seraph Machina (Lv 167)",
+        "dye": "",
+        "map": "Buried Tower: Inside"
+      }
+    ],
+    "id": 82,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Amoeba Machina [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "6"
+      },
+      {
+        "name": "Dodge",
+        "amount": "5"
+      },
+      {
+        "name": "Critical Rate",
+        "amount": "-6"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "4"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Crimsosch"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Amoeba Machina (Lv 158)",
+        "dye": "",
+        "map": "Ultimea Sewer: Southeast"
+      }
+    ],
+    "id": 83,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "ASPD+100 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "100"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Copia Cat (Lv 116)",
+        "dye": "",
+        "map": "Copia Reservoir"
+      }
+    ],
+    "id": 84,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "P. Avatar [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Fire resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "Water resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "Wind resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "Earth resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "Light resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "Dark resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "EXP Gain %",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "P. Avatar (Lv 800)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "P. Avatar (2021) (Lv 400)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "P. Avatar (2022) (Lv 400)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "P. Avatar (2023) (Lv 400)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 85,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Volotur [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR %",
+        "amount": "2"
+      },
+      {
+        "name": "ATK %",
+        "amount": "2"
+      },
+      {
+        "name": "Accuracy %",
+        "amount": "-10"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "-10"
+      },
+      {
+        "name": "Critical Damage",
+        "amount": "2"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Gigant Knight"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Volotur (Lv 160)",
+        "dye": "",
+        "map": "Suburb of Droma Square: Area 3"
+      }
+    ],
+    "id": 86,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dodge+10 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "10"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Petarma (Lv 115)",
+        "dye": "",
+        "map": "Ultimea City: Roof"
+      }
+    ],
+    "id": 87,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Lyark Master Specialist [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "3"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-15"
+      },
+      {
+        "name": "Critical Damage",
+        "amount": "4"
+      },
+      {
+        "name": "Motion Speed %",
+        "amount": "-2"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Metal Stinger"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Lyark Master Specialist (Lv 157)",
+        "dye": "",
+        "map": "Brahe Laboratory: 2nd Building"
+      }
+    ],
+    "id": 88,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "CSPD+100 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "CSPD",
+        "amount": "100"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Venomsch (Lv 112)",
+        "dye": "",
+        "map": "Ultimea Sewer: South"
+      }
+    ],
+    "id": 89,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Guignol [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "5"
+      },
+      {
+        "name": "MATK %",
+        "amount": "5"
+      },
+      {
+        "name": "ASPD",
+        "amount": "-175"
+      },
+      {
+        "name": "CSPD",
+        "amount": "-175"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Nurethoth"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Guignol (Lv 133)",
+        "dye": "",
+        "map": "Brahe Laboratory: 4th Building"
+      },
+      {
+        "monster": "Guignol (Lv 143)",
+        "dye": "",
+        "map": "Brahe Laboratory: 4th Building"
+      },
+      {
+        "monster": "Guignol (Lv 153)",
+        "dye": "",
+        "map": "Brahe Laboratory: 4th Building"
+      },
+      {
+        "monster": "Guignol (Lv 173)",
+        "dye": "",
+        "map": "Brahe Laboratory: 4th Building"
+      },
+      {
+        "monster": "Guignol (Megiston 2018) (Lv 150)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 90,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 91,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Accuracy+10 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy",
+        "amount": "10"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Bio Launcher (Lv 117)",
+        "dye": "",
+        "map": "Brahe Laboratory: 1st Building"
+      },
+      {
+        "monster": "Bio Launcher (Lv 120)",
+        "dye": "",
+        "map": "Brahe Laboratory: 2nd Building"
+      }
+    ],
+    "id": 92,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "AGI+5 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Energy Quartz (Lv 106)",
+        "dye": "",
+        "map": "Ultimea Sewer: East"
+      },
+      {
+        "monster": "Energy Quartz (Lv 108)",
+        "dye": "",
+        "map": "Ultimea Sewer: East"
+      }
+    ],
+    "id": 93,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dodge+8 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "8"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Tigris Machina (Lv 105)",
+        "dye": "",
+        "map": "Lufenas Mansion: Garden"
+      },
+      {
+        "monster": "Tigris Machina (Lv 104)",
+        "dye": "",
+        "map": "Lufenas Mansion: Garden"
+      }
+    ],
+    "id": 94,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "DEX+4 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEX",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Lyark Vanguard (Lv 103)",
+        "dye": "",
+        "map": "Lufenas Mansion: Garden"
+      },
+      {
+        "monster": "Lyark Vanguard (Lv 106)",
+        "dye": "",
+        "map": "Lufenas Mansion: Garden"
+      }
+    ],
+    "id": 95,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Critical Rate +4 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Critical Rate",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Nepenthe (Lv 113)",
+        "dye": "",
+        "map": "Monster's Forest: Foggy Way"
+      },
+      {
+        "monster": "Nepenthe (Lv 114)",
+        "dye": "",
+        "map": "Monster's Forest: Animal Trail"
+      },
+      {
+        "monster": "Nepenthe (Lv 114)",
+        "dye": "",
+        "map": "Monster's Forest: Deep Part"
+      }
+    ],
+    "id": 96,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Odelon Machina [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge %",
+        "amount": "-5"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "-5"
+      },
+      {
+        "name": "Unsheathe Attack %",
+        "amount": "10"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Odelon Machina (Lv 146)",
+        "dye": "",
+        "map": "Large Demi Machina Factory: Area 2"
+      }
+    ],
+    "id": 97,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "MP+250 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "250"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Chill Puffer (Lv 109)",
+        "dye": "",
+        "map": "Navida City: Crossroad (100-120)"
+      },
+      {
+        "monster": "Chill Puffer (Lv 110)",
+        "dye": "",
+        "map": "Navida City: East (100-120)"
+      },
+      {
+        "monster": "Toy Bolg (Lv 122)",
+        "dye": "",
+        "map": "Cuervo Jail: 2nd Floor"
+      },
+      {
+        "monster": "Toy Bolg (Lv 123)",
+        "dye": "",
+        "map": "Cuervo Jail: 3rd Floor"
+      },
+      {
+        "monster": "Spooky Bat (Lv 160)",
+        "dye": "",
+        "map": "Zarth's Mansion: Study"
+      }
+    ],
+    "id": 98,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "MP+200 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "200"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Coffee Jelly (Lv 96)",
+        "dye": "",
+        "map": "Sykea Deep Valley"
+      },
+      {
+        "monster": "Grecion (Lv 89)",
+        "dye": "",
+        "map": "Navida City: Crossroad (80-100)"
+      },
+      {
+        "monster": "Grecion (Lv 91)",
+        "dye": "",
+        "map": "Navida City: West (80-100)"
+      },
+      {
+        "monster": "Spooky Bat (Lv 132)",
+        "dye": "",
+        "map": "Zarth's Mansion: Parlor"
+      }
+    ],
+    "id": 99,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "INT+4 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "INT",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Petally (Lv 94)",
+        "dye": "",
+        "map": "Peligro Landfill"
+      }
+    ],
+    "id": 100,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "ASPD+80 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "80"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Plant Machina (Lv 93)",
+        "dye": "",
+        "map": "Peligro Landfill"
+      },
+      {
+        "monster": "Plant Machina (Lv 95)",
+        "dye": "",
+        "map": "Peligro Landfill"
+      },
+      {
+        "monster": "Plant Machina (Lv 97)",
+        "dye": "",
+        "map": "Peligro Landfill"
+      }
+    ],
+    "id": 101,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "York [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "-75"
+      },
+      {
+        "name": "ATK %",
+        "amount": "4"
+      },
+      {
+        "name": "MATK %",
+        "amount": "4"
+      },
+      {
+        "name": "Attack MP Recovery",
+        "amount": "1"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Brutal Dragon Decel"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "York (Lv 118)",
+        "dye": "",
+        "map": "Huge Crysta Factory: Storage"
+      },
+      {
+        "monster": "York (Lv 128)",
+        "dye": "",
+        "map": "Huge Crysta Factory: Storage"
+      },
+      {
+        "monster": "York (Lv 138)",
+        "dye": "",
+        "map": "Huge Crysta Factory: Storage"
+      },
+      {
+        "monster": "York (Lv 158)",
+        "dye": "",
+        "map": "Huge Crysta Factory: Storage"
+      },
+      {
+        "monster": "York (Megiston 2017) (Lv 150)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 102,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 103,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "AGI+4 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Floral Bee (Lv 91)",
+        "dye": "",
+        "map": "Site of Simcracker"
+      }
+    ],
+    "id": 104,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Platinum Potum [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "20"
+      },
+      {
+        "name": "Physical Resistance %",
+        "amount": "-10"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-10"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "King Potum"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Platinum Potum (Normal) (6M DL) (Lv 100)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Platinum Potum (6M DL) (Lv 107)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Platinum Potum (6M DL) (Lv 120)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Platinum Potum (6M DL) (Lv 140)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Platinum Potum (7M DL) (Lv 150)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 105,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "VIT+4 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "VIT",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Slum Potum (Lv 89)",
+        "dye": "",
+        "map": "Klaspe Slum"
+      }
+    ],
+    "id": 106,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Salamander [Enhancer Crysta (Blue)]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "200"
+      },
+      {
+        "name": "ATK %",
+        "amount": "1"
+      },
+      {
+        "name": "MATK %",
+        "amount": "1"
+      },
+      {
+        "name": "Upgrade for",
+        "amount": "Gespenst"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Salamander (Lv 132)",
+        "dye": "",
+        "map": "Blazing Graben: Upper"
+      }
+    ],
+    "id": 107,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "HP+400 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "400"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Greg (Lv 84)",
+        "dye": "",
+        "map": "Artillery Defense Line"
+      },
+      {
+        "monster": "Carotabat (Lv 131)",
+        "dye": "",
+        "map": "Zarth's Mansion: Parlor"
+      }
+    ],
+    "id": 108,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "CSPD+80 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "CSPD",
+        "amount": "80"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Evil Dark Book (Lv 92)",
+        "dye": "",
+        "map": "Dark Manor: Area 1"
+      },
+      {
+        "monster": "Evil Dark Book (Lv 90)",
+        "dye": "",
+        "map": "Dark Manor: Area 2"
+      },
+      {
+        "monster": "Evil Dark Book (Lv 92)",
+        "dye": "",
+        "map": "Dark Manor: Area 2"
+      }
+    ],
+    "id": 109,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Super Night Mushroom [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "500"
+      },
+      {
+        "name": "Short Range Damage %",
+        "amount": "1"
+      },
+      {
+        "name": "Long Range Damage %",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Super Night Mushroom (Hanami 2017) (Lv 60)",
+        "dye": "",
+        "map": "Hanami Venue: Summit"
+      },
+      {
+        "monster": "Super Night Mushroom (Hanami 2017) (Lv 80)",
+        "dye": "",
+        "map": "Hanami Venue: Summit"
+      },
+      {
+        "monster": "Super Night Mushroom (Hanami 2017) (Lv 100)",
+        "dye": "",
+        "map": "Hanami Venue: Summit"
+      }
+    ],
+    "id": 110,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "STR+4 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Pecora (Lv 90)",
+        "dye": "",
+        "map": "Cradle of Soldier: Entrance"
+      },
+      {
+        "monster": "Pecora (Lv 87)",
+        "dye": "",
+        "map": "Cradle of Soldier: Entrance"
+      },
+      {
+        "monster": "Pecora (Lv 90)",
+        "dye": "",
+        "map": "Cradle of Soldier: Inside"
+      }
+    ],
+    "id": 111,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Aranea [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "400"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "200"
+      },
+      {
+        "name": "Aggro %",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Aranea (Lv 100)",
+        "dye": "",
+        "map": "Garden of Sublimation: Central Part"
+      },
+      {
+        "monster": "Aranea (Lv 110)",
+        "dye": "",
+        "map": "Garden of Sublimation: Central Part"
+      },
+      {
+        "monster": "Aranea (Lv 120)",
+        "dye": "",
+        "map": "Garden of Sublimation: Central Part"
+      },
+      {
+        "monster": "Aranea (Lv 140)",
+        "dye": "",
+        "map": "Garden of Sublimation: Central Part"
+      }
+    ],
+    "id": 112,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Accuracy+8 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy",
+        "amount": "8"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Shiny Roar (Lv 86)",
+        "dye": "",
+        "map": "Garden of Sublimation: Area 1"
+      },
+      {
+        "monster": "Shiny Roar (Lv 86)",
+        "dye": "",
+        "map": "Garden of Sublimation: Area 2"
+      },
+      {
+        "monster": "Shiny Roar (Lv 86)",
+        "dye": "",
+        "map": "Garden of Sublimation: Area 3"
+      }
+    ],
+    "id": 113,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "ASPD+60 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "60"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Ghost Potum (Lv 70)",
+        "dye": "",
+        "map": "Garden of Beginning"
+      }
+    ],
+    "id": 114,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 115,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "AGI+3 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Paratized Dog (Lv 69)",
+        "dye": "",
+        "map": "Dark Wasteland"
+      }
+    ],
+    "id": 116,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Inzanio [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Guard Recharge %",
+        "amount": "1"
+      },
+      {
+        "name": "Attack MP Recovery",
+        "amount": "-1"
+      },
+      {
+        "name": "Weapon ATK",
+        "amount": "10"
+      },
+      {
+        "name": "Fractional Barrier %",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Inzanio the Dark Knight (Xmas Event 2016) (Lv 94)",
+        "dye": "",
+        "map": "Fort Solfini: Roof"
+      },
+      {
+        "monster": "Inzanio the Dark Knight (Lv 84)",
+        "dye": "",
+        "map": "Fort Solfini: Roof"
+      },
+      {
+        "monster": "Inzanio the Dark Knight (Lv 114)",
+        "dye": "",
+        "map": "Fort Solfini: Roof"
+      },
+      {
+        "monster": "Inzanio the Dark Knight (Lv 134)",
+        "dye": "",
+        "map": "Fort Solfini: Roof"
+      },
+      {
+        "monster": "Inzanio the Dark Knight (Lv 94)",
+        "dye": "",
+        "map": "Fort Solfini: Roof"
+      }
+    ],
+    "id": 117,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "HP+300 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "300"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Pawn (Lv 78)",
+        "dye": "",
+        "map": "Fort Solfini: Wall"
+      },
+      {
+        "monster": "Pawn (Lv 82)",
+        "dye": "",
+        "map": "Fort Solfini: Outside"
+      },
+      {
+        "monster": "Pawn (Lv 82)",
+        "dye": "",
+        "map": "Fort Solfini: Inside"
+      },
+      {
+        "monster": "Carotabat (Lv 106)",
+        "dye": "",
+        "map": "Zarth's Mansion: Entrance"
+      }
+    ],
+    "id": 118,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Critical Rate+3 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Critical Rate",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Phobos (Lv 65)",
+        "dye": "",
+        "map": "Calle mort"
+      }
+    ],
+    "id": 119,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "INT+3 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "INT",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Shell Mask (Lv 73)",
+        "dye": "",
+        "map": "Abyss of No Return: Area 1"
+      },
+      {
+        "monster": "Shell Mask (Lv 75)",
+        "dye": "",
+        "map": "Abyss of No Return: Area 2"
+      },
+      {
+        "monster": "Shell Mask (Lv 76)",
+        "dye": "",
+        "map": "Abyss of No Return: Area 3"
+      }
+    ],
+    "id": 120,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "DEX+3 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEX",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Ropple (Lv 61)",
+        "dye": "",
+        "map": "Dunkel Valley"
+      }
+    ],
+    "id": 121,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "CSPD+60 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "CSPD",
+        "amount": "60"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Verdesch (Lv 68)",
+        "dye": "",
+        "map": "Teaus Hill: Marshland"
+      }
+    ],
+    "id": 122,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Scrader [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "100 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Natural MP Regen %",
+        "amount": "-10"
+      },
+      {
+        "name": "MaxHP",
+        "amount": "300"
+      },
+      {
+        "name": "MATK %",
+        "amount": "3"
+      },
+      {
+        "name": "Physical Resistance %",
+        "amount": "-20"
+      },
+      {
+        "name": "Long Range Damage %",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Scrader (Lv 85)",
+        "dye": "",
+        "map": "Magic Waste Site: Deepest Part"
+      },
+      {
+        "monster": "Scrader (Lv 95)",
+        "dye": "",
+        "map": "Magic Waste Site: Deepest Part"
+      },
+      {
+        "monster": "Scrader (Lv 105)",
+        "dye": "",
+        "map": "Magic Waste Site: Deepest Part"
+      },
+      {
+        "monster": "Scrader (Lv 125)",
+        "dye": "",
+        "map": "Magic Waste Site: Deepest Part"
+      }
+    ],
+    "id": 123,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "MP+150 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "150"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Tulin (Lv 55)",
+        "dye": "",
+        "map": "Wanderer's Plain"
+      },
+      {
+        "monster": "Colton (Lv 70)",
+        "dye": "",
+        "map": "Navida City: Crossroad (60-80)"
+      },
+      {
+        "monster": "Colton (Lv 70)",
+        "dye": "",
+        "map": "Navida City: West  (60-80)"
+      },
+      {
+        "monster": "Spooky Bat (Lv 104)",
+        "dye": "",
+        "map": "Zarth's Mansion: Entrance"
+      }
+    ],
+    "id": 124,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "STR+3 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Greg (Lv 58)",
+        "dye": "",
+        "map": "Wanderer's Plain"
+      }
+    ],
+    "id": 125,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Metal Stinger [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "2"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-10"
+      },
+      {
+        "name": "Critical Damage",
+        "amount": "3"
+      },
+      {
+        "name": "Motion Speed %",
+        "amount": "-1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Metal Stinger (Lv 82)",
+        "dye": "",
+        "map": "Akaku Desert: Area 1"
+      },
+      {
+        "monster": "Metal Stinger (Lv 82)",
+        "dye": "",
+        "map": "Akaku Desert: Area 2"
+      }
+    ],
+    "id": 126,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 127,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Megiston [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "1"
+      },
+      {
+        "name": "INT",
+        "amount": "1"
+      },
+      {
+        "name": "VIT",
+        "amount": "1"
+      },
+      {
+        "name": "AGI",
+        "amount": "1"
+      },
+      {
+        "name": "DEX",
+        "amount": "1"
+      },
+      {
+        "name": "MaxHP",
+        "amount": "100"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "50"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Zega (Lv 100)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Zega (Lv 150)",
+        "dye": "",
+        "map": "Event"
+      }
+    ],
+    "id": 128,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dodge+6 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "6"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Rodentail (Lv 52)",
+        "dye": "",
+        "map": "Maia Diela"
+      },
+      {
+        "monster": "Rodentail (Lv 55)",
+        "dye": "",
+        "map": "Maia Diela"
+      }
+    ],
+    "id": 129,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Nurethoth [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "3"
+      },
+      {
+        "name": "MATK %",
+        "amount": "3"
+      },
+      {
+        "name": "ASPD",
+        "amount": "-150"
+      },
+      {
+        "name": "CSPD",
+        "amount": "-150"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Nurethoth (Lv 76)",
+        "dye": "",
+        "map": "Gate to Another World: Front"
+      },
+      {
+        "monster": "Nurethoth (Lv 86)",
+        "dye": "",
+        "map": "Gate to Another World: Front"
+      },
+      {
+        "monster": "Nurethoth (Lv 96)",
+        "dye": "",
+        "map": "Gate to Another World: Front"
+      },
+      {
+        "monster": "Nurethoth (Lv 116)",
+        "dye": "",
+        "map": "Gate to Another World: Front"
+      }
+    ],
+    "id": 130,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "VIT+3 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "VIT",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Colon Zombie (Lv 57)",
+        "dye": "",
+        "map": "Vyshed the Tainted Land: Area 1"
+      },
+      {
+        "monster": "Colon Zombie (Lv 59)",
+        "dye": "",
+        "map": "Vyshed the Tainted Land: Area 1"
+      },
+      {
+        "monster": "Colon Zombie (Lv 59)",
+        "dye": "",
+        "map": "Vyshed the Tainted Land: Area 2"
+      }
+    ],
+    "id": 131,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "HP+200 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "200"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Basalt (Lv 49)",
+        "dye": "",
+        "map": "Fabizo Boundary"
+      }
+    ],
+    "id": 132,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "B.B. Goblin [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "2"
+      },
+      {
+        "name": "Critical Rate",
+        "amount": "-1"
+      },
+      {
+        "name": "Aggro %",
+        "amount": "5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "B.B. Goblin (Lv 70)",
+        "dye": "",
+        "map": "Rinom Plains"
+      },
+      {
+        "monster": "B.B. Goblin (Megiston 2016) (Lv 80)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "B.B. Goblin (Lv 80)",
+        "dye": "",
+        "map": "Rinom Plains"
+      },
+      {
+        "monster": "B.B. Goblin (Lv 90)",
+        "dye": "",
+        "map": "Rinom Plains"
+      },
+      {
+        "monster": "B.B. Goblin (Lv 110)",
+        "dye": "",
+        "map": "Rinom Plains"
+      }
+    ],
+    "id": 133,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Masked Warrior [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "-3"
+      },
+      {
+        "name": "ATK %",
+        "amount": "1"
+      },
+      {
+        "name": "MATK %",
+        "amount": "1"
+      },
+      {
+        "name": "Accuracy",
+        "amount": "-3"
+      },
+      {
+        "name": "Attack MP Recovery",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Masked Warrior (Lv 67)",
+        "dye": "",
+        "map": "Land Under Cultivation: Hill"
+      },
+      {
+        "monster": "Masked Warrior (Lv 77)",
+        "dye": "",
+        "map": "Land Under Cultivation: Hill"
+      },
+      {
+        "monster": "Masked Warrior (Lv 87)",
+        "dye": "",
+        "map": "Land Under Cultivation: Hill"
+      },
+      {
+        "monster": "Masked Warrior (Lv 107)",
+        "dye": "",
+        "map": "Land Under Cultivation: Hill"
+      }
+    ],
+    "id": 134,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "INT+2 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "INT",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Pojo (Lv 51)",
+        "dye": "",
+        "map": "Land Under Cultivation: Area 1"
+      },
+      {
+        "monster": "Pojo (Lv 53)",
+        "dye": "",
+        "map": "Land Under Cultivation: Area 2"
+      }
+    ],
+    "id": 135,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Accuracy+4 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Floral Bee (Lv 40)",
+        "dye": "",
+        "map": "Figo's Manor"
+      },
+      {
+        "monster": "Floral Bee (Lv 41)",
+        "dye": "",
+        "map": "Figo's Manor"
+      }
+    ],
+    "id": 136,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Caspy [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Ailment Resistance %",
+        "amount": "-6"
+      },
+      {
+        "name": "Guard Power %",
+        "amount": "2"
+      },
+      {
+        "name": "Guard Recharge %",
+        "amount": "2"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Caspy (Lv 77)",
+        "dye": "",
+        "map": "Ancient Empress Tomb: Area 2"
+      }
+    ],
+    "id": 137,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "VIT+2 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "VIT",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Stone (Lv 31)",
+        "dye": "",
+        "map": "Zoktzda Ruins : Abnormal Space"
+      },
+      {
+        "monster": "Stone (Lv 33)",
+        "dye": "",
+        "map": "Zoktzda Ruins : Abnormal Space"
+      }
+    ],
+    "id": 138,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 139,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "STR+2 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Skeleton (Lv 30)",
+        "dye": "",
+        "map": "Zoktzda Ruins"
+      }
+    ],
+    "id": 140,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "STR+1 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Beak (Lv 11)",
+        "dye": "",
+        "map": "Ruined Temple Town"
+      },
+      {
+        "monster": "Beak (Lv 12)",
+        "dye": "",
+        "map": "Ruined Temple Town"
+      },
+      {
+        "monster": "Beak (Lv 18)",
+        "dye": "",
+        "map": "Ruined Temple: Area 1"
+      },
+      {
+        "monster": "Beak (Lv 19)",
+        "dye": "",
+        "map": "Ruined Temple: Area 1"
+      }
+    ],
+    "id": 141,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Silver Roar [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "-8"
+      },
+      {
+        "name": "Attack MP Recovery",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Silver Roar (Lv 42)",
+        "dye": "",
+        "map": "Debakcy Channel: B1"
+      }
+    ],
+    "id": 142,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Ruin Golem [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "200"
+      },
+      {
+        "name": "MDEF %",
+        "amount": "5"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Ruin Golem (Lv 45)",
+        "dye": "",
+        "map": "Zoktzda ruins : Reversed Hall"
+      },
+      {
+        "monster": "Ruin Golem (Lv 55)",
+        "dye": "",
+        "map": "Zoktzda ruins : Reversed Hall"
+      },
+      {
+        "monster": "Ruin Golem (Lv 65)",
+        "dye": "",
+        "map": "Zoktzda ruins : Reversed Hall"
+      },
+      {
+        "monster": "Ruin Golem (Lv 85)",
+        "dye": "",
+        "map": "Zoktzda ruins : Reversed Hall"
+      }
+    ],
+    "id": 143,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "MP+50 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "50"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Raffy (Lv 9)",
+        "dye": "",
+        "map": "Ruined Temple Town"
+      },
+      {
+        "monster": "Raffy (Lv 10)",
+        "dye": "",
+        "map": "Suedor Cliff"
+      },
+      {
+        "monster": "Raffy (Lv 3)",
+        "dye": "",
+        "map": "Rugio Ruins"
+      },
+      {
+        "monster": "Raffy (Lv 5)",
+        "dye": "",
+        "map": "Rugio Ruins"
+      },
+      {
+        "monster": "Raffy (Lv 10)",
+        "dye": "",
+        "map": "Ruined Temple Town"
+      },
+      {
+        "monster": "Raffy (Lv 12)",
+        "dye": "",
+        "map": "Suedor Cliff"
+      }
+    ],
+    "id": 144,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "MP+100 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "100"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Voda Roar (Lv 37)",
+        "dye": "",
+        "map": "Lutaros Cavern Entrance"
+      },
+      {
+        "monster": "Voda Roar (Lv 37)",
+        "dye": "",
+        "map": "Lutaros Cavern: B1"
+      }
+    ],
+    "id": 145,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Mochelo [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "5"
+      },
+      {
+        "name": "CSPD %",
+        "amount": "10"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Mochelo (Lv 43)",
+        "dye": "",
+        "map": "Fiery Volcano: Area 3"
+      },
+      {
+        "monster": "Mochelo (Lv 53)",
+        "dye": "",
+        "map": "Fiery Volcano: Area 3"
+      },
+      {
+        "monster": "Mochelo (Lv 63)",
+        "dye": "",
+        "map": "Fiery Volcano: Area 3"
+      },
+      {
+        "monster": "Mochelo (Lv 83)",
+        "dye": "",
+        "map": "Fiery Volcano: Area 3"
+      }
+    ],
+    "id": 146,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Minotaur [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "5"
+      },
+      {
+        "name": "ASPD %",
+        "amount": "10"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Minotaur (Lv 32)",
+        "dye": "",
+        "map": "Ruined Temple: Forbidden hall"
+      },
+      {
+        "monster": "Minotaur (Lv 42)",
+        "dye": "",
+        "map": "Ruined Temple: Forbidden hall"
+      },
+      {
+        "monster": "Minotaur (Lv 52)",
+        "dye": "",
+        "map": "Ruined Temple: Forbidden hall"
+      },
+      {
+        "monster": "Minotaur (Lv 72)",
+        "dye": "",
+        "map": "Ruined Temple: Forbidden hall"
+      }
+    ],
+    "id": 147,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Mauez [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "150"
+      },
+      {
+        "name": "Accuracy %",
+        "amount": "-4"
+      },
+      {
+        "name": "Critical Rate",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Mauez (Lv 55)",
+        "dye": "",
+        "map": "New Moon Palace: Innermost"
+      },
+      {
+        "monster": "Mauez (Lv 65)",
+        "dye": "",
+        "map": "New Moon Palace: Innermost"
+      },
+      {
+        "monster": "Mauez (Lv 75)",
+        "dye": "",
+        "map": "New Moon Palace: Innermost"
+      },
+      {
+        "monster": "Mauez (Lv 95)",
+        "dye": "",
+        "map": "New Moon Palace: Innermost"
+      }
+    ],
+    "id": 148,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "King Potum [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP %",
+        "amount": "10"
+      },
+      {
+        "name": "Physical Resistance %",
+        "amount": "-5"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-5"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "King Potum (Lv 50)",
+        "dye": "",
+        "map": "Athema Ruins: Area 1"
+      }
+    ],
+    "id": 149,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "INT+1 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "INT",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Pomum (Lv 7)",
+        "dye": "",
+        "map": "Reug Salt Plains: Wanderers Camp"
+      }
+    ],
+    "id": 150,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 151,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "HP+100 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "100"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Roar (Lv 21)",
+        "dye": "",
+        "map": "Ruined Temple: Area 2"
+      },
+      {
+        "monster": "Roar (Lv 21)",
+        "dye": "",
+        "map": "Ruined Temple: Area 3"
+      },
+      {
+        "monster": "Conoppy (Lv 26)",
+        "dye": "",
+        "map": "Yorl Highlands"
+      },
+      {
+        "monster": "Conoppy (Lv 25)",
+        "dye": "",
+        "map": "Yorl Highlands"
+      }
+    ],
+    "id": 152,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Gigant Knight [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR %",
+        "amount": "1"
+      },
+      {
+        "name": "ATK %",
+        "amount": "1"
+      },
+      {
+        "name": "Accuracy %",
+        "amount": "-10"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "-10"
+      },
+      {
+        "name": "Critical Damage",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Gigant Knight (Lv 76)",
+        "dye": "",
+        "map": "Saham Crater"
+      }
+    ],
+    "id": 153,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Gespenst [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "150"
+      },
+      {
+        "name": "ATK %",
+        "amount": "-1"
+      },
+      {
+        "name": "MATK %",
+        "amount": "-1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Gespenst (Lv 20)",
+        "dye": "",
+        "map": "Underground Channel"
+      },
+      {
+        "monster": "Gespenst (Lv 30)",
+        "dye": "",
+        "map": "Underground Channel"
+      },
+      {
+        "monster": "Gespenst (Lv 40)",
+        "dye": "",
+        "map": "Underground Channel"
+      },
+      {
+        "monster": "Gespenst (Lv 60)",
+        "dye": "",
+        "map": "Underground Channel"
+      }
+    ],
+    "id": 154,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Forest Wolf [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "6"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Forest Wolf (Lv 30)",
+        "dye": "",
+        "map": "Marbaro Forest: Deepest Part"
+      },
+      {
+        "monster": "Forest Wolf (Lv 40)",
+        "dye": "",
+        "map": "Marbaro Forest: Deepest Part"
+      },
+      {
+        "monster": "Forest Wolf (Lv 50)",
+        "dye": "",
+        "map": "Marbaro Forest: Deepest Part"
+      },
+      {
+        "monster": "Forest Wolf (Lv 70)",
+        "dye": "",
+        "map": "Marbaro Forest: Deepest Part"
+      }
+    ],
+    "id": 155,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Flare Volg [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "STR",
+        "amount": "3"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "-4"
+      },
+      {
+        "name": "Long Range Damage %",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Flare Volg (Lv 50)",
+        "dye": "",
+        "map": "Fiery Volcano: Boss Map"
+      },
+      {
+        "monster": "Flare Volg (Lv 60)",
+        "dye": "",
+        "map": "Fiery Volcano: Boss Map"
+      },
+      {
+        "monster": "Flare Volg (Lv 70)",
+        "dye": "",
+        "map": "Fiery Volcano: Boss Map"
+      },
+      {
+        "monster": "Flare Volg (Lv 90)",
+        "dye": "",
+        "map": "Fiery Volcano: Boss Map"
+      }
+    ],
+    "id": 156,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dodge+4 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "4"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Beak (Lv 32)",
+        "dye": "",
+        "map": "Scaro Town: Area 1"
+      },
+      {
+        "monster": "Beak (Lv 33)",
+        "dye": "",
+        "map": "Scaro Town: Area 2"
+      }
+    ],
+    "id": 157,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Dodge+2 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Dodge",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Goblin (Lv 20)",
+        "dye": "",
+        "map": "Ruined Temple: Area 1"
+      },
+      {
+        "monster": "Goblin (Lv 20)",
+        "dye": "",
+        "map": "Ruined Temple: Area 2"
+      }
+    ],
+    "id": 158,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "DEX+2 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEX",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Stone (Lv 39)",
+        "dye": "",
+        "map": "New Moon Palace"
+      }
+    ],
+    "id": 159,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "DEX+1 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEX",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Nemico (Lv 11)",
+        "dye": "",
+        "map": "Underground Ruins: B1"
+      },
+      {
+        "monster": "Nemico (Lv 11)",
+        "dye": "",
+        "map": "Underground Ruins: B2"
+      },
+      {
+        "monster": "Nemico (Lv 13)",
+        "dye": "",
+        "map": "Underground Ruins: B2"
+      }
+    ],
+    "id": 160,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "CSPD+40 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "CSPD",
+        "amount": "40"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Pojo (Lv 39)",
+        "dye": "",
+        "map": "Darkanon Plain"
+      },
+      {
+        "monster": "Pojo (Lv 38)",
+        "dye": "",
+        "map": "Darkanon Plain"
+      }
+    ],
+    "id": 161,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "CSPD+20 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "CSPD",
+        "amount": "20"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Night Mushroom (Lv 10)",
+        "dye": "",
+        "map": "Reug Salt Plains: Wanderers Camp"
+      },
+      {
+        "monster": "Night Mushroom (Lv 13)",
+        "dye": "",
+        "map": "Isthmus Of Kaus"
+      },
+      {
+        "monster": "Night Mushroom (Lv 15)",
+        "dye": "",
+        "map": "Isthmus Of Kaus"
+      }
+    ],
+    "id": 162,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 163,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Critical Rate+2 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Critical Rate",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Rotta Nemico (Lv 45)",
+        "dye": "",
+        "map": "Saham Underground Cave: B1"
+      }
+    ],
+    "id": 164,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Critical Rate+1 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Critical Rate",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Boar (Lv 25)",
+        "dye": "",
+        "map": "Nisel Mountain"
+      },
+      {
+        "monster": "Boar (Lv 26)",
+        "dye": "",
+        "map": "Nisel Mountain: Mountainside"
+      },
+      {
+        "monster": "Boar (Lv 27)",
+        "dye": "",
+        "map": "Nisel Mountain: Near The Top"
+      }
+    ],
+    "id": 165,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Crimsosch [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "3"
+      },
+      {
+        "name": "Dodge",
+        "amount": "3"
+      },
+      {
+        "name": "Critical Rate",
+        "amount": "-9"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Crimsosh (Lv 37)",
+        "dye": "",
+        "map": "Athema Ruins: Area 2"
+      }
+    ],
+    "id": 166,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Brutal Dragon Decel [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxMP",
+        "amount": "-50"
+      },
+      {
+        "name": "ATK %",
+        "amount": "1"
+      },
+      {
+        "name": "MATK %",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Brutal Dragon Decel (Lv 40)",
+        "dye": "",
+        "map": "Nisel Mountain: The Top"
+      },
+      {
+        "monster": "Brutal Dragon Decel (Megiston 2016) (Lv 90)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Brutal Dragon Decel (Lv 50)",
+        "dye": "",
+        "map": "Nisel Mountain: The Top"
+      },
+      {
+        "monster": "Brutal Dragon Decel (Lv 60)",
+        "dye": "",
+        "map": "Nisel Mountain: The Top"
+      }
+    ],
+    "id": 167,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Boss Goblin [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ATK %",
+        "amount": "1"
+      },
+      {
+        "name": "Accuracy",
+        "amount": "-4"
+      },
+      {
+        "name": "Critical Rate %",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Boss Goblin (Lv 40)",
+        "dye": "",
+        "map": "Ribisco Cave: Deepest Part"
+      },
+      {
+        "monster": "Boss Goblin (Megiston 2016) (Lv 80)",
+        "dye": "",
+        "map": "Event"
+      },
+      {
+        "monster": "Boss Goblin (Lv 50)",
+        "dye": "",
+        "map": "Ribisco Cave: Deepest Part"
+      },
+      {
+        "monster": "Boss Goblin (Lv 60)",
+        "dye": "",
+        "map": "Ribisco Cave: Deepest Part"
+      },
+      {
+        "monster": "Boss Goblin (Lv 80)",
+        "dye": "",
+        "map": "Ribisco Cave: Deepest Part"
+      }
+    ],
+    "id": 168,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Boss Colon [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "MaxHP",
+        "amount": "70"
+      },
+      {
+        "name": "MaxMP",
+        "amount": "30"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "The Strongest boss in game (Lv 999)",
+        "dye": "",
+        "map": "Land Under Development"
+      },
+      {
+        "monster": "Boss Colon (Lv 20)",
+        "dye": "",
+        "map": "Land Under Development"
+      },
+      {
+        "monster": "Boss Colon (Lv 30)",
+        "dye": "",
+        "map": "Land Under Development"
+      },
+      {
+        "monster": "Boss Colon (Lv 50)",
+        "dye": "",
+        "map": "Land Under Development"
+      }
+    ],
+    "id": 169,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Big Coryn [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Physical Resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "Ailment Resistance %",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Big Coryn (Lv 60)",
+        "dye": "",
+        "map": "Douce Hamlet"
+      }
+    ],
+    "id": 170,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Astol [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "DEF %",
+        "amount": "-10"
+      },
+      {
+        "name": "Magic Resistance %",
+        "amount": "1"
+      },
+      {
+        "name": "Evasion Recharge %",
+        "amount": "3"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Astol (Lv 50)",
+        "dye": "",
+        "map": "Aulada Ancient Tower"
+      },
+      {
+        "monster": "Astol (Lv 60)",
+        "dye": "",
+        "map": "Aulada Ancient Tower"
+      },
+      {
+        "monster": "Astol (Lv 70)",
+        "dye": "",
+        "map": "Aulada Ancient Tower"
+      },
+      {
+        "monster": "Astol (Lv 90)",
+        "dye": "",
+        "map": "Aulada Ancient Tower"
+      }
+    ],
+    "id": 171,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "ASPD+40 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "40"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Flame Roar (Lv 43)",
+        "dye": "",
+        "map": "Saham Crater"
+      }
+    ],
+    "id": 172,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "ASPD+20 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "ASPD",
+        "amount": "20"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Hound (Lv 13)",
+        "dye": "",
+        "map": "Isthmus Of Kaus"
+      },
+      {
+        "monster": "Hound (Lv 18)",
+        "dye": "",
+        "map": "Isthmus Of Kaus"
+      },
+      {
+        "monster": "Hound (Lv 15)",
+        "dye": "",
+        "map": "Isthmus Of Kaus"
+      }
+    ],
+    "id": 173,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "AGI+2 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Cliff Pico (Lv 33)",
+        "dye": "",
+        "map": "Lonogo Canyon"
+      }
+    ],
+    "id": 174,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "",
+    "props": {},
+    "stat_header": [],
+    "stats": [],
+    "obtained_from": [],
+    "id": 175,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "AGI+1 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "AGI",
+        "amount": "1"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Pico (Lv 18)",
+        "dye": "",
+        "map": "Rinom Plains"
+      }
+    ],
+    "id": 176,
+    "type": "Normal Crysta"
+  },
+  {
+    "title": "Accuracy+2 [Normal Crysta]",
+    "props": {
+      "Sell": "1 Spina",
+      "Process": "2 Mana"
+    },
+    "stat_header": [
+      "Stat/Effect",
+      "Amount"
+    ],
+    "stats": [
+      {
+        "name": "Accuracy",
+        "amount": "2"
+      }
+    ],
+    "obtained_from": [
+      {
+        "monster": "Torpo (Lv 8)",
+        "dye": "",
+        "map": "Underground Ruins"
+      }
+    ],
+    "id": 177,
+    "type": "Normal Crysta"
+  }
+]
