@@ -1,0 +1,14 @@
+{
+  "dataVersion": "1.0.0",
+  "schemaVersion": "1.0",
+  "lastUpdated": "2026-01-06",
+
+  "minAppVersion": "1.0.0",
+
+  "changelog": [
+    "Initial data structure",
+    "Separated enums, rules, gear, weapon, crysta",
+    "Added weapon slot rules",
+    "Added gear slot rules"
+  ]
+}
