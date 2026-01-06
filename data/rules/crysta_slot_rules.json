@@ -1,0 +1,24 @@
+{
+  "NORMAL": [
+    "WEAPON",
+    "ARMOR",
+    "ADDITIONAL",
+    "SPECIAL"
+  ],
+
+  "WEAPON": [
+    "WEAPON"
+  ],
+
+  "ARMOR": [
+    "ARMOR"
+  ],
+
+  "ADDITIONAL": [
+    "ADDITIONAL"
+  ],
+
+  "SPECIAL": [
+    "SPECIAL"
+  ]
+}
