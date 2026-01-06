@@ -1,6 +1,4 @@
 {
-  "version": "1.0.0",
-
   "mainToAllowedSub": {
     "BARE_HAND": [
       "DAGGER",
@@ -23,10 +21,7 @@
 
     "2H_SWORD": [],
 
-    "BOW": [
-      "ARROW",
-      "KATANA"
-    ],
+    "BOW": ["ARROW", "KATANA"],
 
     "BOWGUN": [
       "DAGGER",
@@ -45,9 +40,7 @@
       "NINJUTSU_SCROLL"
     ],
 
-    "MAGIC_DEVICE": [
-      "NINJUTSU_SCROLL"
-    ],
+    "MAGIC_DEVICE": ["NINJUTSU_SCROLL"],
 
     "KNUCKLES": [
       "DAGGER",
@@ -56,14 +49,8 @@
       "MAGIC_DEVICE"
     ],
 
-    "HALBERD": [
-      "DAGGER",
-      "ARROW"
-    ],
+    "HALBERD": ["DAGGER", "ARROW"],
 
-    "KATANA": [
-      "DAGGER",
-      "NINJUTSU_SCROLL"
-    ]
+    "KATANA": ["DAGGER", "NINJUTSU_SCROLL"]
   }
 }
