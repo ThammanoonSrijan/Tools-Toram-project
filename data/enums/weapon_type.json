@@ -1,0 +1,21 @@
+{
+  "BARE_HAND": "Bare Hand",
+
+  "ONE_HAND_SWORD": "1H Sword",
+  "TWO_HAND_SWORD": "2H Sword",
+
+  "BOW": "Bow",
+  "BOWGUN": "Bowgun",
+
+  "STAFF": "Staff",
+  "MAGIC_DEVICE": "Magic Device",
+
+  "KNUCKLES": "Knuckles",
+  "HALBERD": "Halberd",
+  "KATANA": "Katana",
+
+  "DAGGER": "Dagger",
+  "SHIELD": "Shield",
+  "ARROW": "Arrow",
+  "NINJUTSU_SCROLL": "Ninjutsu Scroll"
+}
